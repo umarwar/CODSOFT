@@ -8,3 +8,5 @@ Movie Rating Prediction," involves building a machine learning model to predict 
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. Now assume that you have the measurements of the iris flowers according to their species, and here your task is to train a machine learning model that can learn from the measurements of the iris species and classify them.
 # # Task 4: SALES PREDICTION USING PYTHON
 This project uses machine learning to predict car purchase amounts based on customer data and related factors. The primary goal is to help businesses make informed decisions about their advertising and marketing strategies to increase sales and revenue.
+# # Task 4: CREDIT CARD FRAUD DETECTION
+We tackled the essential mission of building a robust credit card fraud detection model. This project contributes to financial security by using machine learning to identify and prevent credit card fraud, ultimately benefiting both cardholders and financial institutions.
